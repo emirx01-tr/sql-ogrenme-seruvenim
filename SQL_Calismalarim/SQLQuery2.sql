@@ -1,0 +1,1 @@
+select * from ornek order by tutar asc  
