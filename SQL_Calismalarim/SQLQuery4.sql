@@ -1,0 +1,1 @@
+select Memleket , count(isim) as 'çalýþan sayýsý' from sehirler group by Memleket having count(*)>2
